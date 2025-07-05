@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Samuel Deng
-email: samdeng@cs.columbia.edu
+title: Jingwen Liu
+email: jingwenliu@cs.columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Columbia University
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "samuel-deng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "jingwen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: jekyll-theme-minimal
