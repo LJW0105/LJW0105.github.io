@@ -2,7 +2,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["main"]  # Or "master" if that's your default branch
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -23,8 +23,10 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # You can change this to your preferred Ruby version
+          ruby-version: '3.1'
           bundler-cache: true
+      - name: Add linux platform to lockfile
+        run: bundle lock --add-platform x86_64-linux
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
