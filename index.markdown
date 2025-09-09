@@ -20,7 +20,7 @@ Jingwen Liu, Hantao Yu, Clayton Sanford, Alexandr Andoni, Daniel Hsu <br>
 *Under review* 2025. <br>
 
 [Group-wise oracle-efficient algorithms for online multi-group learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/45afdc1958befe9b60af7b445e768b10-Paper-Conference.pdf)<br>
-($\alpha$-$\beta$) Samuel Deng, Daniel Hsu, Jingwen Liu.<br>
+(random order) Samuel Deng, Daniel Hsu, Jingwen Liu.<br>
 *Advances in Neural Information Processing Systems (NeurIPS),* 2024. <br>
 [arXiv](https://arxiv.org/abs/2406.05287) | [Poster](/assets/poster_oracle.pdf) 
 
