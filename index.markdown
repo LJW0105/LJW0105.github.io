@@ -33,7 +33,7 @@ Zeyuan Chen, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, H
 
 ## Teaching and Service
 
-I have served as a reviewer for: COLT 2025, ICML MOSS workshop 2025, Neurips M3L workshop 2024. 
+I have served as a reviewer for: COLT 2025, ICML 2025, NeurIPS 2024, 2025. 
 
 I was also a volunteer for [Pre-Submission Application Review (PAR) Program](https://www.cs.columbia.edu/cscu-phd-par-program/) which provides reviews of statements and CV from students applying to the CS PhD Program at Columbia. 
 
