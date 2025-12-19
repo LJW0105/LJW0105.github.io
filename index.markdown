@@ -14,11 +14,14 @@ My research interest lies broadly in machine learning theory, algorithmic statis
 - Simons Institute for the Theory of Computing, UC Berkeley (Fall 2024), [Modern Paradigms in Generalization](https://simons.berkeley.edu/programs/modern-paradigms-generalization) and [Large Language Models and Transformers](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1)
 
 ## Publications
+[Group-realizable multi-group learning by minimizing empirical risk]()<br>
+($\alpha$-$\beta$) Navid Ardeshir, Samuel Deng, Daniel Hsu, Jingwen Liu. <br>
+*The 37th International Conference on Algorithmic Learning Theory (ALT),* 2026. <br>
 
 [Fast attention mechanisms: a tale of parallelism]()<br>
-Jingwen Liu, Hantao Yu, Clayton Sanford, Alexandr Andoni, Daniel Hsu <br>
+Jingwen Liu, Hantao Yu, Clayton Sanford, Alexandr Andoni, Daniel Hsu. <br>
 *Advances in Neural Information Processing Systems (NeurIPS),* 2025. <br>
-[arXiv](https://arxiv.org/abs/2509.09001)
+[arXiv](https://arxiv.org/abs/2509.09001) | [Poster](/assets/poster_fast_attention.pdf)
 
 [Group-wise oracle-efficient algorithms for online multi-group learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/45afdc1958befe9b60af7b445e768b10-Paper-Conference.pdf)<br>
 (random order) Samuel Deng, Daniel Hsu, Jingwen Liu.<br>
