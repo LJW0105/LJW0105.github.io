@@ -22,7 +22,7 @@ My research interest lies broadly in machine learning theory, algorithmic statis
 [Fast attention mechanisms: a tale of parallelism]()<br>
 Jingwen Liu, Hantao Yu, Clayton Sanford, Alexandr Andoni, Daniel Hsu. <br>
 *Advances in Neural Information Processing Systems (NeurIPS),* 2025. <br>
-[arXiv](https://arxiv.org/abs/2601.16922) | [Poster](/assets/poster_fast_attention.pdf)
+[arXiv](https://arxiv.org/abs/2509.09001) | [Poster](/assets/poster_fast_attention.pdf)
 
 [Group-wise oracle-efficient algorithms for online multi-group learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/45afdc1958befe9b60af7b445e768b10-Paper-Conference.pdf)<br>
 (random order) Samuel Deng, Daniel Hsu, Jingwen Liu.<br>
