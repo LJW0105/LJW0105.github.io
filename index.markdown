@@ -14,6 +14,11 @@ My research interest lies broadly in machine learning theory, algorithmic statis
 - Simons Institute for the Theory of Computing, UC Berkeley (Fall 2024), [Modern Paradigms in Generalization](https://simons.berkeley.edu/programs/modern-paradigms-generalization) and [Large Language Models and Transformers](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1)
 
 ## Publications
+[Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases]()<br>
+Jingwen Liu, Ezra Edelman, Surbhi Goel, Bingbin Liu. <br>
+*International Conference on Machine Learning (ICML),* 2026. <br>
+**Contributed talk**, *Workshop on Scientific Methods for Understanding Deep Learning, ICLR,* 2026.
+
 [Group-realizable multi-group learning by minimizing empirical risk]()<br>
 ($\alpha$-$\beta$) Navid Ardeshir, Samuel Deng, Daniel Hsu, Jingwen Liu. <br>
 *The 37th International Conference on Algorithmic Learning Theory (ALT),* 2026. <br>
