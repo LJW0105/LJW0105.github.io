@@ -10,6 +10,7 @@ My research interest lies broadly in machine learning theory, algorithmic statis
 
 
 ## Experience
+- Microsoft Research (Summer 2026), hosted by the amazing [Akshay Krishnamurthy](https://people.cs.umass.edu/~akshay/)
 - Computer and Information Science at the University of Pennsylvania (Summer 2025), hosted by the amazing [Surbhi Goel](https://www.surbhigoel.com/)
 - Simons Institute for the Theory of Computing, UC Berkeley (Fall 2024), [Modern Paradigms in Generalization](https://simons.berkeley.edu/programs/modern-paradigms-generalization) and [Large Language Models and Transformers](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1)
 
@@ -17,7 +18,8 @@ My research interest lies broadly in machine learning theory, algorithmic statis
 [Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases]()<br>
 Jingwen Liu, Ezra Edelman, Surbhi Goel, Bingbin Liu. <br>
 *International Conference on Machine Learning (ICML),* 2026. <br>
-**Contributed talk**, *Workshop on Scientific Methods for Understanding Deep Learning, ICLR,* 2026.
+**Contributed talk**, *Workshop on Scientific Methods for Understanding Deep Learning, ICLR,* 2026. <br>
+[arXiv](https://arxiv.org/abs/2605.20314)
 
 [Group-realizable multi-group learning by minimizing empirical risk]()<br>
 ($\alpha$-$\beta$) Navid Ardeshir, Samuel Deng, Daniel Hsu, Jingwen Liu. <br>
