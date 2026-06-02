@@ -15,6 +15,10 @@ My research interest lies broadly in machine learning theory, algorithmic statis
 - Simons Institute for the Theory of Computing, UC Berkeley (Fall 2024), [Modern Paradigms in Generalization](https://simons.berkeley.edu/programs/modern-paradigms-generalization) and [Large Language Models and Transformers](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1)
 
 ## Publications
+[Fixed Universal Transformers]()<br>
+Jingwen Liu, Alexandr Andoni, Daniel Hsu. <br>
+[arXiv](https://arxiv.org/abs/2605.31423)
+
 [Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases]()<br>
 Jingwen Liu, Ezra Edelman, Surbhi Goel, Bingbin Liu. <br>
 *International Conference on Machine Learning (ICML),* 2026. <br>
@@ -26,7 +30,7 @@ Jingwen Liu, Ezra Edelman, Surbhi Goel, Bingbin Liu. <br>
 *The 37th International Conference on Algorithmic Learning Theory (ALT),* 2026. <br>
 [arXiv](https://www.arxiv.org/abs/2601.16922)
 
-[Fast attention mechanisms: a tale of parallelism]()<br>
+[Fast attention mechanisms: a tale of parallelism](https://proceedings.neurips.cc/paper_files/paper/2025/file/522b09b6fb58bb98ef0d4550329094a0-Paper-Conference.pdf)<br>
 Jingwen Liu, Hantao Yu, Clayton Sanford, Alexandr Andoni, Daniel Hsu. <br>
 *Advances in Neural Information Processing Systems (NeurIPS),* 2025. <br>
 [arXiv](https://arxiv.org/abs/2509.09001) | [Poster](/assets/poster_fast_attention.pdf)
