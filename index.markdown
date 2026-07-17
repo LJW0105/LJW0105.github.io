@@ -6,7 +6,7 @@ layout: default
 ---
 Hi, I'm Jingwen, a PhD student in the [Theory of Computation Group](https://theory.cs.columbia.edu/) at [Columbia University](https://www.columbia.edu/), where I am extremely fortunate to be advised by [Daniel Hsu](https://www.cs.columbia.edu/~djhsu/) and [Alex Andoni](https://www.cs.columbia.edu/~andoni/). I obtained my undergraduate degree at UC San Diego, where I majored in mathematics and computer science. During my time at UCSD, I'm extremely honored to work with glorious [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and [Russell Impagliazzo](https://cseweb.ucsd.edu/~russell/), who sparked my interest in ML theory and TCS research. I was also very lucky to work with [Xiaolong Wang](https://xiaolonw.github.io/), who introduced me to CS research. 
 
-My research interest lies broadly in machine learning theory and deep learning theory. 
+My recent research focuses on developing mathematical frameworks to understand and improve large language models, spanning model architecture, training/optimization, and self-improvement. 
 
 
 ## Experience
