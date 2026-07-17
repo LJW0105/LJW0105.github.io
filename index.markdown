@@ -6,11 +6,11 @@ layout: default
 ---
 Hi, I'm Jingwen, a PhD student in the [Theory of Computation Group](https://theory.cs.columbia.edu/) at [Columbia University](https://www.columbia.edu/), where I am extremely fortunate to be advised by [Daniel Hsu](https://www.cs.columbia.edu/~djhsu/) and [Alex Andoni](https://www.cs.columbia.edu/~andoni/). I obtained my undergraduate degree at UC San Diego, where I majored in mathematics and computer science. During my time at UCSD, I'm extremely honored to work with glorious [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and [Russell Impagliazzo](https://cseweb.ucsd.edu/~russell/), who sparked my interest in ML theory and TCS research. I was also very lucky to work with [Xiaolong Wang](https://xiaolonw.github.io/), who introduced me to CS research. 
 
-My research interest lies broadly in machine learning theory, algorithmic statistics, and deep learning theory. Specifically, I'm curious about the theory of transformers, particularly understanding what kinds of algorithms they can implement and efficiently learn, exploring how to train them or design training data to help them learn correct algorithms, and developing more efficient alternatives that retain their representational power. I'm also interested in designing computationally and sample-efficient algorithms that can adapt to the low-dimensional structure of the data, for tasks like learning [multi-index models](https://arxiv.org/pdf/2504.05426) or more general non-linear feature learning settings. 
+My research interest lies broadly in machine learning theory and deep learning theory. 
 
 
 ## Experience
-- Microsoft Research (Summer 2026), hosted by the amazing [Akshay Krishnamurthy](https://people.cs.umass.edu/~akshay/)
+- Microsoft Research (Summer 2026), working with [Akshay Krishnamurthy](https://people.cs.umass.edu/~akshay/), [Dylan Foster](https://dylanfoster.net/), [Nived Rajaraman](https://nivedr.github.io/) and [Bingbin Liu](https://clarabing.github.io/)
 - Computer and Information Science at the University of Pennsylvania (Summer 2025), hosted by the amazing [Surbhi Goel](https://www.surbhigoel.com/)
 - Simons Institute for the Theory of Computing, UC Berkeley (Fall 2024), [Modern Paradigms in Generalization](https://simons.berkeley.edu/programs/modern-paradigms-generalization) and [Large Language Models and Transformers](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1)
 
@@ -48,7 +48,7 @@ Zeyuan Chen, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, H
 
 ## Teaching and Service
 
-I have served as a reviewer for: COLT 2025, ICML 2025, NeurIPS 2024, 2025. 
+I have served as a reviewer for: COLT 2025, 2026, ICML 2025, NeurIPS 2024, 2025. 
 
 I was also a volunteer for [Pre-Submission Application Review (PAR) Program](https://www.cs.columbia.edu/cscu-phd-par-program/) which provides reviews of statements and CV from students applying to the CS PhD Program at Columbia. 
 
