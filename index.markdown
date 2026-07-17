@@ -4,7 +4,7 @@
 
 layout: default
 ---
-Hi, I'm Jingwen, a PhD student in the [Theory of Computation Group](https://theory.cs.columbia.edu/) at [Columbia University](https://www.columbia.edu/), where I am extremely fortunate to be advised by [Daniel Hsu](https://www.cs.columbia.edu/~djhsu/) and [Alex Andoni](https://www.cs.columbia.edu/~andoni/). I obtained my undergraduate degree at UC San Diego, where I majored in mathematics and computer science. During my time at UCSD, I'm extremely honored to work with glorious [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and [Russell Impagliazzo](https://cseweb.ucsd.edu/~russell/), who sparked my interest in ML theory and TCS research. I was also very lucky to work with [Xiaolong Wang](https://xiaolonw.github.io/), who introduced me to CS research. 
+Hi, I'm Jingwen, a PhD student in the [Columbia Core AI Lab (CAIL)](https://cail.columbia.edu/) and [Theory of Computation Group](https://theory.cs.columbia.edu/) at [Columbia University](https://www.columbia.edu/), where I am extremely fortunate to be advised by [Daniel Hsu](https://www.cs.columbia.edu/~djhsu/) and [Alex Andoni](https://www.cs.columbia.edu/~andoni/). I obtained my undergraduate degree at UC San Diego, where I majored in mathematics and computer science. During my time at UCSD, I'm extremely honored to work with glorious [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and [Russell Impagliazzo](https://cseweb.ucsd.edu/~russell/), who sparked my interest in ML theory and TCS research. I was also very lucky to work with [Xiaolong Wang](https://xiaolonw.github.io/), who introduced me to CS research. 
 
 My recent research focuses on developing mathematical frameworks to understand and improve large language models, spanning model architecture, training/optimization, and self-improvement. 
 
@@ -23,9 +23,9 @@ Jingwen Liu, Alexandr Andoni, Daniel Hsu. <br>
 Jingwen Liu, Ezra Edelman, Surbhi Goel, Bingbin Liu. <br>
 *International Conference on Machine Learning (ICML),* 2026. <br>
 **Contributed talk**, *Workshop on Scientific Methods for Understanding Deep Learning, ICLR,* 2026. <br>
-[arXiv](https://arxiv.org/abs/2605.20314)
+[arXiv](https://arxiv.org/abs/2605.20314) | [Poster](/assets/data_repetition_poster.pdf)
 
-[Group-realizable multi-group learning by minimizing empirical risk]()<br>
+[Group-realizable multi-group learning by minimizing empirical risk](https://proceedings.mlr.press/v313/ardeshir26a.html)<br>
 ($\alpha$-$\beta$) Navid Ardeshir, Samuel Deng, Daniel Hsu, Jingwen Liu. <br>
 *The 37th International Conference on Algorithmic Learning Theory (ALT),* 2026. <br>
 [arXiv](https://www.arxiv.org/abs/2601.16922)
