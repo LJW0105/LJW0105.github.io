@@ -10,13 +10,14 @@ My recent research focuses on developing mathematical frameworks to understand a
 
 
 ## Experience
-- Microsoft Research (Summer 2026), working with [Akshay Krishnamurthy](https://people.cs.umass.edu/~akshay/), [Dylan Foster](https://dylanfoster.net/), [Nived Rajaraman](https://nivedr.github.io/) and [Bingbin Liu](https://clarabing.github.io/)
+- Microsoft Research (Summer 2026), working with [Akshay Krishnamurthy](https://people.cs.umass.edu/~akshay/), [Dylan Foster](https://dylanfoster.net/), [Nived Rajaraman](https://nivedr.github.io/), [Bingbin Liu](https://clarabing.github.io/) and [Eshaan Nichani](https://eshaannichani.com/)
 - Computer and Information Science at the University of Pennsylvania (Summer 2025), hosted by the amazing [Surbhi Goel](https://www.surbhigoel.com/)
 - Simons Institute for the Theory of Computing, UC Berkeley (Fall 2024), [Modern Paradigms in Generalization](https://simons.berkeley.edu/programs/modern-paradigms-generalization) and [Large Language Models and Transformers](https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1)
 
 ## Publications
 [Fixed Universal Transformers]()<br>
 Jingwen Liu, Alexandr Andoni, Daniel Hsu. <br>
+*Advances in Neural Information Processing Systems (NeurIPS),* 2026. <br>
 [arXiv](https://arxiv.org/abs/2605.31423)
 
 [Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases]()<br>
