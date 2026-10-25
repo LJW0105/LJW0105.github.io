@@ -1,0 +1,74 @@
+# Publications, newest first. Fields:
+#   title, url (optional; falls back to the first link), authors, order_note (optional),
+#   venue, short (badge text), year, notes (optional list), links (list of {name, url})
+# "Jingwen Liu" is bolded automatically in the author list.
+
+- title: "Fixed Universal Transformers"
+  authors: "Jingwen Liu, Alexandr Andoni, Daniel Hsu"
+  venue: "Advances in Neural Information Processing Systems (NeurIPS)"
+  short: "NeurIPS"
+  year: 2026
+  links:
+    - name: arXiv
+      url: https://arxiv.org/abs/2605.31423
+
+- title: "Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases"
+  authors: "Jingwen Liu, Ezra Edelman, Surbhi Goel, Bingbin Liu"
+  venue: "International Conference on Machine Learning (ICML)"
+  short: "ICML"
+  year: 2026
+  notes:
+    - "<strong>Contributed talk</strong>, Workshop on Scientific Methods for Understanding Deep Learning, ICLR 2026"
+  links:
+    - name: arXiv
+      url: https://arxiv.org/abs/2605.20314
+    - name: Poster
+      url: /assets/data_repetition_poster.pdf
+
+- title: "Group-realizable multi-group learning by minimizing empirical risk"
+  url: https://proceedings.mlr.press/v313/ardeshir26a.html
+  authors: "Navid Ardeshir, Samuel Deng, Daniel Hsu, Jingwen Liu"
+  order_note: "α-β order"
+  venue: "The 37th International Conference on Algorithmic Learning Theory (ALT)"
+  short: "ALT"
+  year: 2026
+  links:
+    - name: arXiv
+      url: https://www.arxiv.org/abs/2601.16922
+
+- title: "Fast attention mechanisms: a tale of parallelism"
+  url: https://proceedings.neurips.cc/paper_files/paper/2025/file/522b09b6fb58bb98ef0d4550329094a0-Paper-Conference.pdf
+  authors: "Jingwen Liu, Hantao Yu, Clayton Sanford, Alexandr Andoni, Daniel Hsu"
+  venue: "Advances in Neural Information Processing Systems (NeurIPS)"
+  short: "NeurIPS"
+  year: 2025
+  links:
+    - name: arXiv
+      url: https://arxiv.org/abs/2509.09001
+    - name: Poster
+      url: /assets/poster_fast_attention.pdf
+
+- title: "Group-wise oracle-efficient algorithms for online multi-group learning"
+  url: https://proceedings.neurips.cc/paper_files/paper/2024/file/45afdc1958befe9b60af7b445e768b10-Paper-Conference.pdf
+  authors: "Samuel Deng, Daniel Hsu, Jingwen Liu"
+  order_note: "random order"
+  venue: "Advances in Neural Information Processing Systems (NeurIPS)"
+  short: "NeurIPS"
+  year: 2024
+  links:
+    - name: arXiv
+      url: https://arxiv.org/abs/2406.05287
+    - name: Poster
+      url: /assets/poster_oracle.pdf
+
+- title: "VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution"
+  url: https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_VideoINR_Learning_Video_Implicit_Neural_Representation_for_Continuous_Space-Time_Super-Resolution_CVPR_2022_paper.pdf
+  authors: "Zeyuan Chen, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang"
+  venue: "Conference on Computer Vision and Pattern Recognition (CVPR)"
+  short: "CVPR"
+  year: 2022
+  links:
+    - name: arXiv
+      url: https://arxiv.org/abs/2206.04647
+    - name: Website
+      url: https://zeyuan-chen.com/VideoINR/

@@ -1,0 +1,22 @@
+<ol class="pubs">
+{% for p in site.data.publications %}
+  {% assign link = p.url | default: p.links[0].url %}
+  <li class="pub">
+    <div class="pub-badge"><span>{{ p.short }}</span><span class="pub-year">{{ p.year }}</span></div>
+    <div class="pub-body">
+      <a class="pub-title" href="{{ link }}">{{ p.title }}</a>
+      <div class="pub-authors">
+        {% if p.order_note %}<span class="pub-order">({{ p.order_note }})</span>{% endif %}
+        {{ p.authors | replace: "Jingwen Liu", "<strong>Jingwen Liu</strong>" }}
+      </div>
+      <div class="pub-venue"><em>{{ p.venue }}</em>, {{ p.year }}</div>
+      {% for n in p.notes %}<div class="pub-note">{{ n }}</div>{% endfor %}
+      {% if p.links %}
+      <div class="pub-links">
+        {% for l in p.links %}<a href="{{ l.url }}">{{ l.name }}</a>{% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </li>
+{% endfor %}
+</ol>

@@ -1,0 +1,21 @@
+# Research positions, newest first. "detail" accepts HTML.
+
+- place: "Microsoft Research"
+  when: "Summer 2026"
+  detail: >-
+    Working with <a href="https://people.cs.umass.edu/~akshay/">Akshay Krishnamurthy</a>,
+    <a href="https://dylanfoster.net/">Dylan Foster</a>,
+    <a href="https://nivedr.github.io/">Nived Rajaraman</a>,
+    <a href="https://clarabing.github.io/">Bingbin Liu</a> and
+    <a href="https://eshaannichani.com/">Eshaan Nichani</a>
+
+- place: "University of Pennsylvania, Computer and Information Science"
+  when: "Summer 2025"
+  detail: >-
+    Hosted by <a href="https://www.surbhigoel.com/">Surbhi Goel</a>
+
+- place: "Simons Institute for the Theory of Computing, UC Berkeley"
+  when: "Fall 2024"
+  detail: >-
+    Programs on <a href="https://simons.berkeley.edu/programs/modern-paradigms-generalization">Modern Paradigms in Generalization</a>
+    and <a href="https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-1">Large Language Models and Transformers</a>

@@ -1,0 +1,11 @@
+<ul class="timeline">
+{% for e in site.data.experience %}
+  <li>
+    <div class="tl-when">{{ e.when }}</div>
+    <div class="tl-body">
+      <div class="tl-place">{{ e.place }}</div>
+      <div class="tl-detail">{{ e.detail }}</div>
+    </div>
+  </li>
+{% endfor %}
+</ul>

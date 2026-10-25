@@ -2,7 +2,6 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-1BQWN7S13R"></script>
@@ -15,15 +14,11 @@
     </script>
 
 {% seo %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    {% include head-custom.html %}
     <!-- MathJax support for LaTeX -->
-    <script type="text/javascript" id="MathJax-script" async
-      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-    </script>
     <script>
       MathJax = {
         tex: {
@@ -32,42 +27,32 @@
         }
       };
     </script>
+    <script type="text/javascript" id="MathJax-script" async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ site.url }}">Jingwen Liu</a></h1>
-        
-        <img src="/assets/img/profile_photo.jpg" alt="My Face" width="200" height="233"/>
+    <header class="site-header">
+      <div class="container nav">
+        <a class="brand" href="{{ "/" | relative_url }}">Jingwen Liu</a>
+        <nav>
+          <a href="/#about">About</a>
+          <a href="/#experience">Experience</a>
+          <a href="/#publications">Publications</a>
+          <a href="/#teaching">Teaching</a>
+          <a class="nav-cv" href="/assets/CV.pdf">CV</a>
+        </nav>
+      </div>
+    </header>
 
-        <p>PhD Student in <a href="https://www.cs.columbia.edu//">Computer Science</a>
-          <br>
-          <a href="https://www.columbia.edu//">Columbia University</a>
-        </p>
-
-        <p>Email: jingwenliu [AT] cs.columbia.edu<br></p>
-
-        <ul>
-          <!-- <li><a href="/assets/cv.pdf">CV</a></li> -->
-          <li><a href="https://scholar.google.com/citations?user=ZDP0p3EAAAAJ&hl=en">Google Scholar</a></li>
-          <li><a href="/#experience">Experience</a></li>
-          <li><a href="/#publications">Publications</a></li>
-          <li><a href="/#teaching">Teaching and Service</a></li>
-          <li><a href="/#miscellaneous">Miscellaneous</a></li>
-        </ul>
-      </header>
-      <section>
-
+    <main class="container">
       {{ content }}
+    </main>
 
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; {{ site.time | date: "%Y" }} Jingwen Liu &middot; Last updated {{ site.time | date: "%B %Y" }}</p>
+      </div>
+    </footer>
   </body>
 </html>
-
